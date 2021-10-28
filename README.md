@@ -1,4 +1,4 @@
-# Homework7 -- Inclass Assignment
+# Homework7 -- In Class Assignment
 
 1) <ER diagram>
   
