@@ -24,6 +24,4 @@
  Some ways to clean data include using functions like replace, reformat, rename, and searching for null values (and replacing them with something that makes sense in the data set).
   
  3)  APIs
-
-
-  https://medium.com/girl-geeks/top-10-apis-for-beginners-4d3c43be9386
+I think it would be fun to explore NASA's API "Satellite Situation Center" (https://sscweb.gsfc.nasa.gov/WebServices/REST/) in conjunction with the OpenSky Network API (https://opensky-network.org/apidoc/) to try to get real-time comparisons of a wedge of sky/space and what objects are in it at any given time. 
