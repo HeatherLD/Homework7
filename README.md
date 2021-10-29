@@ -4,14 +4,22 @@
   
 2)  Dirty data generally refers to data that somehow do not conform to a general standard (either within the database parameters or by accepted norms in the data community). Dirty data gets in the way of grouping and analyzing functions by throwing errors or dropping values. Some examples include:
 
-  symbols like dollar or percent signs
-  date formats
-  extra (often invisible) spaces in column names
-  misspelled words
-  non-standardized abbreviations or versions
-  null values
-  empty values
-  inconsistent data types
+  • symbols like dollar or percent signs
+  
+  • date formats
+  
+  • extra (often invisible) spaces in column names
+  
+  • misspelled words
+  
+  • non-standardized abbreviations or versions
+  
+  • null values
+  
+  • empty values
+  
+  • inconsistent data types
+  
   
  Some ways to clean data include using functions like replace, reformat, rename, and searching for null values (and replacing them with something that makes sense in the data set).
   
