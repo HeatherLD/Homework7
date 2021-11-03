@@ -1,5 +1,5 @@
 # Homework7 -- Week 7 Homework
-1-4:
+
 5. Explain what autoincrementing is; also explain the difference between creating a join and a subquery.
 
   Auto incrementing is a SQL process which generates unique numbers to be generated and assigned to new rows as they are inserted into a table. This column
@@ -9,7 +9,7 @@
   specified. A subquery, on the other hand, is a way to compare values in two columns and using the result as part of the outer query, without creating a new
   table.
 
-6. ![Joining Data in SQL certificate](
+6. ![Joining Data in SQL certificate](https://github.com/HeatherLD/Homework7/blob/ddb194b2fa75ee68f341c88a91ebba5694566dea/Joining%20Data%20in%20SQL%20certificate.png)
 
 
 Homework7 -- In Class Assignment
